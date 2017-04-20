@@ -1,6 +1,6 @@
 {
   "name": "quilk-css-grid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CSS Grid. Nothing more.",
   "main": "quilk.js",
   "scripts": {

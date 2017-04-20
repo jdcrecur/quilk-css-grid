@@ -1,6 +1,6 @@
 # quilk-css-grid
 
-Just a pure CSS grid.
+Just a pure CSS grid weighing in at 1.6Kb.
 
 Standard 12 grid layout you find with almost all CSS frameworks that probably started with bootstrap css.
 
