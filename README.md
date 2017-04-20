@@ -20,3 +20,13 @@ There is only `col-md-(1 to 12)` and `col-sm-(1 to 12)`. The reason for the same
 ```
 
 Checkout the `quilk-css-grid.scss` for more the scss code.
+
+The following variables you can override, and here are their defaults:
+```
+$container_width: 90% !default;
+$width: 96% !default;
+$gutter: 4% !default;
+$breakpoint-small: 33.75em !default; // 540px
+$breakpoint-med: 45em !default; // 720px
+$breakpoint-large: 60em !default; // 960px
+```
