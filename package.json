@@ -1,0 +1,25 @@
+{
+  "name": "quilk-css-grid",
+  "version": "1.0.0",
+  "description": "CSS Grid. Nothing more.",
+  "main": "quilk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdcrecur/quilk-css-grid.git"
+  },
+  "keywords": [
+    "CSS",
+    "grid",
+    "sass",
+    "scss"
+  ],
+  "author": "John Carmichael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdcrecur/quilk-css-grid/issues"
+  },
+  "homepage": "https://github.com/jdcrecur/quilk-css-grid#readme"
+}
